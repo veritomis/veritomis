@@ -8,8 +8,7 @@
     
 </head>
 <body>
-    <h1>Presentation</h1>
-  <br>
+  
     <h2> Hello! 👋 </h2> 
       
     My name is Verónica, I’m from Argentina.
@@ -17,7 +16,6 @@
     I also study frontend.
     I offer continuity and perseverance.
   <br>
-
 <h1>Skills</h1>
 JAVA Backend Developer - SQL - SPRINGBOOT - REST API - MONGO DB SCRUM - JUNIT - JWT - 
 Design patterns- Maven - AWS
