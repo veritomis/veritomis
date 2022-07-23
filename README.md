@@ -16,7 +16,7 @@
 
       
     My name is Verónica, I’m from Argentina.
-    I currently looking for a job, as java backend developer.
+    I currently looking for a job, as laravel backend developer.
     I also study frontend.
     I offer continuity and perseverance.
   <br>
