@@ -21,7 +21,7 @@
     I offer continuity and perseverance.
   <br>
 <h1>Skills</h1>
-Laravel Backend Developer - Infyom - Practie - JAVA Backend Developer - SQL - SPRINGBOOT - REST API - MONGO DB SCRUM - JUNIT - JWT - 
+Laravel Backend Developer - Infyom - JAVA Backend Developer - SQL - SPRINGBOOT - REST API - MONGO DB SCRUM - JUNIT - JWT - 
 Design patterns- Maven - AWS 
 HTML - CSS - JS - PHP
   <br>
