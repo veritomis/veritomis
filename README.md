@@ -21,9 +21,9 @@
     I offer continuity and perseverance.
   <br>
 <h1>Skills</h1>
-Laravel Backend Developer - Infyom - JAVA Backend Developer - SQL - SPRINGBOOT - REST API - MONGO DB SCRUM - JUNIT - JWT - 
+Laravel Backend Developer - Infyom - JAVA Backend Developer - SQL - SPRINGBOOT - REST API - MONGO DB - SCRUM - JUNIT - JWT - 
 Design patterns- Maven - AWS 
-HTML - CSS - JS - PHP
+HTML - CSS - JS - PHP - PLSQL
   <br>
 <h1>Soft Skills</h1>
 I was chosen as the best classmate in my class, when I was a student. I like to explain and help so that we all understand the slogans and thus move forward.
